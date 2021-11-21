@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\Art.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\Art.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\Art.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\Art.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\Art.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\ref\Art.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\Art.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\Art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\Art.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\Art.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\Art.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\Art.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\ref\Art.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\Art.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\Art.genruntimeconfig.cache

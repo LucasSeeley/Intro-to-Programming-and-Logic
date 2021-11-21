@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\bin\Debug\net5.0\Hurricane.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\bin\Debug\net5.0\Hurricane.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\bin\Debug\net5.0\Hurricane.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\bin\Debug\net5.0\Hurricane.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\bin\Debug\net5.0\Hurricane.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\bin\Debug\net5.0\ref\Hurricane.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\bin\Debug\net5.0\Hurricane.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\Hurricane.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\Hurricane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\Hurricane.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\Hurricane.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\Hurricane.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\ref\Hurricane.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\Hurricane.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Hurricane\obj\Debug\net5.0\Hurricane.genruntimeconfig.cache

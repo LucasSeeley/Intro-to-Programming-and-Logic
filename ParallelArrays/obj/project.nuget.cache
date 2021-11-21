@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1p8WKlaBPe2W4sGZnKVE/v1WHZKDXuIrDee0X32xRC2g26Ssvrxw5FsQn/WpgLvS+Eu0yjs7iAEYF3Tcv2SHaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documents\\Coding\\C#\\ParallelArrays\\ParallelArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

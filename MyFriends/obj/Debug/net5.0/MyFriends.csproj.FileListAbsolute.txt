@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\bin\Debug\net5.0\MyFriends.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\bin\Debug\net5.0\MyFriends.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\bin\Debug\net5.0\MyFriends.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\bin\Debug\net5.0\MyFriends.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\bin\Debug\net5.0\MyFriends.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\bin\Debug\net5.0\ref\MyFriends.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\bin\Debug\net5.0\MyFriends.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\MyFriends.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\MyFriends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\MyFriends.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\MyFriends.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\MyFriends.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\MyFriends.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\ref\MyFriends.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\MyFriends.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\MyFriends\obj\Debug\net5.0\MyFriends.genruntimeconfig.cache

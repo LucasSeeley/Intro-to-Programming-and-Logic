@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\bin\Debug\net5.0\IGotBitches.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\bin\Debug\net5.0\IGotBitches.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\bin\Debug\net5.0\IGotBitches.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\bin\Debug\net5.0\IGotBitches.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\bin\Debug\net5.0\IGotBitches.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\bin\Debug\net5.0\ref\IGotBitches.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\bin\Debug\net5.0\IGotBitches.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\obj\Debug\net5.0\IGotBitches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\obj\Debug\net5.0\IGotBitches.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\obj\Debug\net5.0\IGotBitches.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\obj\Debug\net5.0\IGotBitches.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\obj\Debug\net5.0\IGotBitches.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\obj\Debug\net5.0\ref\IGotBitches.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\obj\Debug\net5.0\IGotBitches.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\IGotBitches\obj\Debug\net5.0\IGotBitches.genruntimeconfig.cache

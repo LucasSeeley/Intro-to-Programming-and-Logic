@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\FunShit.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\FunShit.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\FunShit.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\FunShit.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\FunShit.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\ref\FunShit.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\bin\Debug\net5.0\FunShit.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\FunShit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\FunShit.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\FunShit.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\FunShit.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\FunShit.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\ref\FunShit.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\FunShit.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ASCII Art\obj\Debug\net5.0\FunShit.genruntimeconfig.cache

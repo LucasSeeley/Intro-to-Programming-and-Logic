@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\bin\Debug\net5.0\SumFiveInts.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\bin\Debug\net5.0\SumFiveInts.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\bin\Debug\net5.0\SumFiveInts.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\bin\Debug\net5.0\SumFiveInts.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\bin\Debug\net5.0\SumFiveInts.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\bin\Debug\net5.0\ref\SumFiveInts.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\bin\Debug\net5.0\SumFiveInts.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\SumFiveInts.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\SumFiveInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\SumFiveInts.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\SumFiveInts.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\SumFiveInts.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\SumFiveInts.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\ref\SumFiveInts.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\SumFiveInts.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SumFiveInts\obj\Debug\net5.0\SumFiveInts.genruntimeconfig.cache

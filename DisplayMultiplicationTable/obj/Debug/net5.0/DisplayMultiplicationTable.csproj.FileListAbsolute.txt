@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\bin\Debug\net5.0\DisplayMultiplicationTable.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\bin\Debug\net5.0\DisplayMultiplicationTable.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\bin\Debug\net5.0\DisplayMultiplicationTable.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\bin\Debug\net5.0\DisplayMultiplicationTable.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\bin\Debug\net5.0\DisplayMultiplicationTable.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\bin\Debug\net5.0\ref\DisplayMultiplicationTable.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\bin\Debug\net5.0\DisplayMultiplicationTable.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\DisplayMultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\DisplayMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\DisplayMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\DisplayMultiplicationTable.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\DisplayMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\DisplayMultiplicationTable.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\ref\DisplayMultiplicationTable.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\DisplayMultiplicationTable.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DisplayMultiplicationTable\obj\Debug\net5.0\DisplayMultiplicationTable.genruntimeconfig.cache

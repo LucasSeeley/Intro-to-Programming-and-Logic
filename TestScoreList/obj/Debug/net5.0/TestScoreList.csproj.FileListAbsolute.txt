@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\bin\Debug\net5.0\TestScoreList.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\bin\Debug\net5.0\TestScoreList.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\bin\Debug\net5.0\TestScoreList.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\bin\Debug\net5.0\TestScoreList.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\bin\Debug\net5.0\TestScoreList.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\bin\Debug\net5.0\ref\TestScoreList.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\bin\Debug\net5.0\TestScoreList.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\TestScoreList.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\TestScoreList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\TestScoreList.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\TestScoreList.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\TestScoreList.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\ref\TestScoreList.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\TestScoreList.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TestScoreList\obj\Debug\net5.0\TestScoreList.genruntimeconfig.cache

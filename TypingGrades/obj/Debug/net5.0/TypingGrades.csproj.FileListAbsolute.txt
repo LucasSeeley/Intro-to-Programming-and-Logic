@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\bin\Debug\net5.0\TypingGrades.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\bin\Debug\net5.0\TypingGrades.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\bin\Debug\net5.0\TypingGrades.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\bin\Debug\net5.0\TypingGrades.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\bin\Debug\net5.0\TypingGrades.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\bin\Debug\net5.0\ref\TypingGrades.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\bin\Debug\net5.0\TypingGrades.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\TypingGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\TypingGrades.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\TypingGrades.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\TypingGrades.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\TypingGrades.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\ref\TypingGrades.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\TypingGrades.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\TypingGrades.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\TypingGrades\obj\Debug\net5.0\TypingGrades.csproj.AssemblyReference.cache

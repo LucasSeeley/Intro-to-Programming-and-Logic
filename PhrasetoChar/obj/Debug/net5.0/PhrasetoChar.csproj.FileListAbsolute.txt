@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\bin\Debug\net5.0\PhrasetoChar.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\bin\Debug\net5.0\PhrasetoChar.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\bin\Debug\net5.0\PhrasetoChar.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\bin\Debug\net5.0\PhrasetoChar.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\bin\Debug\net5.0\PhrasetoChar.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\bin\Debug\net5.0\ref\PhrasetoChar.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\bin\Debug\net5.0\PhrasetoChar.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\obj\Debug\net5.0\PhrasetoChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\obj\Debug\net5.0\PhrasetoChar.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\obj\Debug\net5.0\PhrasetoChar.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\obj\Debug\net5.0\PhrasetoChar.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\obj\Debug\net5.0\PhrasetoChar.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\obj\Debug\net5.0\ref\PhrasetoChar.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\obj\Debug\net5.0\PhrasetoChar.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\PhrasetoChar\obj\Debug\net5.0\PhrasetoChar.genruntimeconfig.cache

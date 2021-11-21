@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/teyIZVBXh1PKSjETquntKCtg8m6J1xMkd3H9oX1p1sHMh3P8c2W71xzM0jv4nVt6Kb8t929zzvTPLO/0+niww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documents\\Coding\\C#\\HomeSales\\HomeSales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\bin\Debug\net5.0\DailyTemps.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\bin\Debug\net5.0\DailyTemps.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\bin\Debug\net5.0\DailyTemps.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\bin\Debug\net5.0\DailyTemps.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\bin\Debug\net5.0\DailyTemps.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\bin\Debug\net5.0\ref\DailyTemps.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\bin\Debug\net5.0\DailyTemps.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\DailyTemps.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\DailyTemps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\DailyTemps.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\DailyTemps.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\DailyTemps.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\DailyTemps.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\ref\DailyTemps.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\DailyTemps.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DailyTemps\obj\Debug\net5.0\DailyTemps.genruntimeconfig.cache

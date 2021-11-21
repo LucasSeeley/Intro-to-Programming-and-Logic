@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\bin\Debug\net5.0\Admission.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\bin\Debug\net5.0\Admission.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\bin\Debug\net5.0\Admission.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\bin\Debug\net5.0\Admission.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\bin\Debug\net5.0\Admission.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\bin\Debug\net5.0\ref\Admission.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\bin\Debug\net5.0\Admission.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\Admission.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\Admission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\Admission.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\Admission.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\Admission.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\Admission.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\ref\Admission.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\Admission.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Admission\obj\Debug\net5.0\Admission.genruntimeconfig.cache

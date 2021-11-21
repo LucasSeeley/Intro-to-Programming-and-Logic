@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CheckMonth2/1.0.0": {
+        "runtime": {
+          "CheckMonth2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckMonth2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

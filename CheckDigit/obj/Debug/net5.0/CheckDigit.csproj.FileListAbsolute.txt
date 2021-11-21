@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\bin\Debug\net5.0\CheckDigit.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\bin\Debug\net5.0\CheckDigit.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\bin\Debug\net5.0\CheckDigit.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\bin\Debug\net5.0\CheckDigit.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\bin\Debug\net5.0\CheckDigit.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\bin\Debug\net5.0\ref\CheckDigit.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\bin\Debug\net5.0\CheckDigit.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\CheckDigit.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\CheckDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\CheckDigit.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\CheckDigit.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\CheckDigit.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\CheckDigit.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\ref\CheckDigit.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\CheckDigit.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckDigit\obj\Debug\net5.0\CheckDigit.genruntimeconfig.cache

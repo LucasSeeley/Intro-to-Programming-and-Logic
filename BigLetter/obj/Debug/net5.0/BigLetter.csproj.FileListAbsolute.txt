@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\bin\Debug\net5.0\BigLetter.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\bin\Debug\net5.0\BigLetter.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\bin\Debug\net5.0\BigLetter.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\bin\Debug\net5.0\BigLetter.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\bin\Debug\net5.0\BigLetter.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\bin\Debug\net5.0\ref\BigLetter.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\bin\Debug\net5.0\BigLetter.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\BigLetter.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\BigLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\BigLetter.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\BigLetter.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\BigLetter.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\BigLetter.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\ref\BigLetter.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\BigLetter.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\BigLetter\obj\Debug\net5.0\BigLetter.genruntimeconfig.cache

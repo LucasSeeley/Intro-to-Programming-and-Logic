@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\bin\Debug\net5.0\Paint Code.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\bin\Debug\net5.0\Paint Code.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\bin\Debug\net5.0\Paint Code.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\bin\Debug\net5.0\Paint Code.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\bin\Debug\net5.0\Paint Code.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\bin\Debug\net5.0\ref\Paint Code.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\bin\Debug\net5.0\Paint Code.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\Paint Code.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\Paint Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\Paint Code.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\Paint Code.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\Paint Code.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\Paint Code.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\ref\Paint Code.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\Paint Code.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Paint Code\obj\Debug\net5.0\Paint Code.genruntimeconfig.cache

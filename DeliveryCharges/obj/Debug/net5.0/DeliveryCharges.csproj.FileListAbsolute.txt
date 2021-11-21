@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\bin\Debug\net5.0\DeliveryCharges.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\bin\Debug\net5.0\DeliveryCharges.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\bin\Debug\net5.0\DeliveryCharges.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\bin\Debug\net5.0\DeliveryCharges.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\bin\Debug\net5.0\DeliveryCharges.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\bin\Debug\net5.0\ref\DeliveryCharges.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\bin\Debug\net5.0\DeliveryCharges.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\obj\Debug\net5.0\DeliveryCharges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\obj\Debug\net5.0\DeliveryCharges.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\obj\Debug\net5.0\DeliveryCharges.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\obj\Debug\net5.0\DeliveryCharges.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\obj\Debug\net5.0\DeliveryCharges.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\obj\Debug\net5.0\ref\DeliveryCharges.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\obj\Debug\net5.0\DeliveryCharges.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\DeliveryCharges\obj\Debug\net5.0\DeliveryCharges.genruntimeconfig.cache

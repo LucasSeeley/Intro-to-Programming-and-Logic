@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\bin\Debug\net5.0\ArrayDouble.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\bin\Debug\net5.0\ArrayDouble.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\bin\Debug\net5.0\ArrayDouble.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\bin\Debug\net5.0\ArrayDouble.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\bin\Debug\net5.0\ArrayDouble.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\bin\Debug\net5.0\ref\ArrayDouble.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\bin\Debug\net5.0\ArrayDouble.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ArrayDouble.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ArrayDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ArrayDouble.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ArrayDouble.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ArrayDouble.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ArrayDouble.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ref\ArrayDouble.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ArrayDouble.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ArrayDouble\obj\Debug\net5.0\ArrayDouble.genruntimeconfig.cache

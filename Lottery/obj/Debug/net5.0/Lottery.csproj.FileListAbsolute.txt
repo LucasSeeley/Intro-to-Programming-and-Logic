@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\Lottery.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\Lottery.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\Lottery.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\bin\Debug\net5.0\Lottery.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\bin\Debug\net5.0\Lottery.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\bin\Debug\net5.0\Lottery.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\bin\Debug\net5.0\Lottery.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\bin\Debug\net5.0\Lottery.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\bin\Debug\net5.0\ref\Lottery.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\bin\Debug\net5.0\Lottery.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\Lottery.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\ref\Lottery.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\Lottery.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Lottery\obj\Debug\net5.0\Lottery.genruntimeconfig.cache

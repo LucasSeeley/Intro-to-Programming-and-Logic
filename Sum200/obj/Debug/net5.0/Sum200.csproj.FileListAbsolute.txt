@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\bin\Debug\net5.0\Sum200.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\bin\Debug\net5.0\Sum200.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\bin\Debug\net5.0\Sum200.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\bin\Debug\net5.0\Sum200.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\bin\Debug\net5.0\Sum200.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\bin\Debug\net5.0\ref\Sum200.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\bin\Debug\net5.0\Sum200.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\Sum200.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\Sum200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\Sum200.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\Sum200.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\Sum200.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\Sum200.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\ref\Sum200.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\Sum200.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Sum200\obj\Debug\net5.0\Sum200.genruntimeconfig.cache

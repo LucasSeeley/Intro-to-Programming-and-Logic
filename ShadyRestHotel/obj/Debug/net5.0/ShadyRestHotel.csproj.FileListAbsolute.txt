@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\bin\Debug\net5.0\ShadyRestHotel.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\bin\Debug\net5.0\ShadyRestHotel.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\bin\Debug\net5.0\ShadyRestHotel.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\bin\Debug\net5.0\ShadyRestHotel.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\bin\Debug\net5.0\ShadyRestHotel.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\bin\Debug\net5.0\ref\ShadyRestHotel.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\bin\Debug\net5.0\ShadyRestHotel.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ShadyRestHotel.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ShadyRestHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ShadyRestHotel.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ShadyRestHotel.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ShadyRestHotel.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ShadyRestHotel.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ref\ShadyRestHotel.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ShadyRestHotel.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ShadyRestHotel\obj\Debug\net5.0\ShadyRestHotel.genruntimeconfig.cache

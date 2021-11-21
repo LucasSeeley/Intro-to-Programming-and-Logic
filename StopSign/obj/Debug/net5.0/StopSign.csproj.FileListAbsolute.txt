@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\bin\Debug\net5.0\StopSign.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\bin\Debug\net5.0\StopSign.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\bin\Debug\net5.0\StopSign.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\bin\Debug\net5.0\StopSign.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\bin\Debug\net5.0\StopSign.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\bin\Debug\net5.0\ref\StopSign.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\bin\Debug\net5.0\StopSign.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\StopSign.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\StopSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\StopSign.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\StopSign.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\StopSign.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\StopSign.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\ref\StopSign.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\StopSign.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\StopSign\obj\Debug\net5.0\StopSign.genruntimeconfig.cache

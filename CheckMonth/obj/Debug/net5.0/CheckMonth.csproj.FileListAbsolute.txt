@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\bin\Debug\net5.0\CheckMonth.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\bin\Debug\net5.0\CheckMonth.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\bin\Debug\net5.0\CheckMonth.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\bin\Debug\net5.0\CheckMonth.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\bin\Debug\net5.0\CheckMonth.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\bin\Debug\net5.0\ref\CheckMonth.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\bin\Debug\net5.0\CheckMonth.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\CheckMonth.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\CheckMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\CheckMonth.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\CheckMonth.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\CheckMonth.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\CheckMonth.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\ref\CheckMonth.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\CheckMonth.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\CheckMonth\obj\Debug\net5.0\CheckMonth.genruntimeconfig.cache

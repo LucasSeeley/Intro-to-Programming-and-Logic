@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\bin\Debug\net5.0\NineInts.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\bin\Debug\net5.0\NineInts.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\bin\Debug\net5.0\NineInts.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\bin\Debug\net5.0\NineInts.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\bin\Debug\net5.0\NineInts.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\bin\Debug\net5.0\ref\NineInts.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\bin\Debug\net5.0\NineInts.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\NineInts.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\NineInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\NineInts.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\NineInts.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\NineInts.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\NineInts.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\ref\NineInts.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\NineInts.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\NineInts\obj\Debug\net5.0\NineInts.genruntimeconfig.cache

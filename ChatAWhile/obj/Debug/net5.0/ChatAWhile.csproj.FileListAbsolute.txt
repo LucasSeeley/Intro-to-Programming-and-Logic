@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\bin\Debug\net5.0\ChatAWhile.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\bin\Debug\net5.0\ChatAWhile.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\bin\Debug\net5.0\ChatAWhile.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\bin\Debug\net5.0\ChatAWhile.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\bin\Debug\net5.0\ChatAWhile.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\bin\Debug\net5.0\ref\ChatAWhile.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\bin\Debug\net5.0\ChatAWhile.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ChatAWhile.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ChatAWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ChatAWhile.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ChatAWhile.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ChatAWhile.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ChatAWhile.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ref\ChatAWhile.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ChatAWhile.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ChatAWhile\obj\Debug\net5.0\ChatAWhile.genruntimeconfig.cache

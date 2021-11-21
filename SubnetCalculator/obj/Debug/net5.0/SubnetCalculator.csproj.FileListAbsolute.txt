@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\SubnetCalculator.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\SubnetCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\SubnetCalculator.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\SubnetCalculator.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\SubnetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\bin\Debug\net5.0\SubnetCalculator.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\bin\Debug\net5.0\SubnetCalculator.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\bin\Debug\net5.0\SubnetCalculator.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\bin\Debug\net5.0\SubnetCalculator.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\bin\Debug\net5.0\SubnetCalculator.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\bin\Debug\net5.0\ref\SubnetCalculator.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\bin\Debug\net5.0\SubnetCalculator.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\SubnetCalculator.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\ref\SubnetCalculator.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\SubnetCalculator.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\SubnetCalculator\obj\Debug\net5.0\SubnetCalculator.genruntimeconfig.cache

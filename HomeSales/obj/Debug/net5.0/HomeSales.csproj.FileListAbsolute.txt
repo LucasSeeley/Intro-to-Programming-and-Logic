@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\HomeSales.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\HomeSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\HomeSales.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\HomeSales.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\bin\Debug\net5.0\HomeSales.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\bin\Debug\net5.0\HomeSales.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\bin\Debug\net5.0\HomeSales.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\bin\Debug\net5.0\HomeSales.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\bin\Debug\net5.0\HomeSales.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\bin\Debug\net5.0\ref\HomeSales.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\bin\Debug\net5.0\HomeSales.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\HomeSales.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\ref\HomeSales.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\HomeSales.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\HomeSales\obj\Debug\net5.0\HomeSales.genruntimeconfig.cache

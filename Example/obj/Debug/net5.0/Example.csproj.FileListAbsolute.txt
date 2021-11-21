@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\bin\Debug\net5.0\Example.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\bin\Debug\net5.0\Example.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\bin\Debug\net5.0\Example.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\bin\Debug\net5.0\Example.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\bin\Debug\net5.0\Example.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\bin\Debug\net5.0\ref\Example.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\bin\Debug\net5.0\Example.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\Example.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\Example.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\Example.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\Example.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\ref\Example.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\Example.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Example\obj\Debug\net5.0\Example.genruntimeconfig.cache

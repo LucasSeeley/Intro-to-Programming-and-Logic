@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\bin\Debug\net5.0\ParallelArrays.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\bin\Debug\net5.0\ParallelArrays.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\bin\Debug\net5.0\ParallelArrays.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\bin\Debug\net5.0\ParallelArrays.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\bin\Debug\net5.0\ParallelArrays.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\bin\Debug\net5.0\ref\ParallelArrays.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\bin\Debug\net5.0\ParallelArrays.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ParallelArrays.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ParallelArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ParallelArrays.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ParallelArrays.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ParallelArrays.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ParallelArrays.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ref\ParallelArrays.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ParallelArrays.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\ParallelArrays\obj\Debug\net5.0\ParallelArrays.genruntimeconfig.cache

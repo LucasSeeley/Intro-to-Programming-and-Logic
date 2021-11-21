@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjdHlckRhfAhaBQyp5HkBw8TSW57PHoiXK/lBEM0jMy7zhLbI+LW2Nb0IunFWvLugPgO77FVyH8RV64ULfEJcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documents\\Coding\\C#\\NineInts\\NineInts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

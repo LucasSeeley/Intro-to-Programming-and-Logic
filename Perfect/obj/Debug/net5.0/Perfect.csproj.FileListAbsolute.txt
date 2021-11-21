@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\bin\Debug\net5.0\Perfect.exe
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\bin\Debug\net5.0\Perfect.deps.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\bin\Debug\net5.0\Perfect.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\bin\Debug\net5.0\Perfect.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\bin\Debug\net5.0\Perfect.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\bin\Debug\net5.0\ref\Perfect.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\bin\Debug\net5.0\Perfect.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\Perfect.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\Perfect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\Perfect.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\Perfect.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\Perfect.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\Perfect.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\ref\Perfect.dll
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\Perfect.pdb
+C:\Users\lucas\OneDrive\Documents\Coding\C#\Perfect\obj\Debug\net5.0\Perfect.genruntimeconfig.cache
